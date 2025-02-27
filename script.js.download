@@ -1,0 +1,11 @@
+Var btn = document.querySelector (:btn');
+    Var menu = document.querySelector (:menu');
+btn.addeventListner ('click', functional){
+    menu.classList.toggle ('active');
+};
+Var navlink= document.querySelector ('ul li a');
+for (var i = 0, i <navlink.length,itt) {
+    navlink [i]. addEventListner('click', function()) {
+        men.classList.remove ('active')
+    }
+}
